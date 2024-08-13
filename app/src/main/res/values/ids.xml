@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container_view_home" type="id"/>
+    <item name="fragment_container_view_favorite" type="id"/>
+    <item name="fragment_container_view_profile" type="id"/>
+    <item name="fragment_container_view_alert" type="id"/>
+</resources>

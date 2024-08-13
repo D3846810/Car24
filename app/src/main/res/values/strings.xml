@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cars24</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="password_recovery_msg">To ensure secure account recovery, we have sent a password reset link to your registered email address. Please check your inbox and follow the instructions to reset your password. If you don\'t receive the email, kindly check your spam folder or contact our support team for further assistance. Thank you.</string>
+    <string name="web_client_id">942404320552-cs773rt1dtogdjs5b6p1qj67n9tropga.apps.googleusercontent.com</string>
+    <string name="welcomeText">Log in to your account using Email, social account or Create account</string>
+    <string name="bookingTitle">Book Test Drive Here!</string>
+    <string name="currencySymbol">£</string>
+    <string name="default_country_code">44</string>
+
+
+</resources>
